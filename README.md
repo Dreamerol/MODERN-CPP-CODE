@@ -173,18 +173,15 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
-
-
-
-
-
 ---
 
 
 
 
+<div align="left">
 
 
+<div align="left">
 
 
 
@@ -254,6 +251,16 @@ A collection of C++ programming exercises, implementations, and reference materi
 ## ▶️ Build
 
 Compile using Visual Studio or any C++17 compatible compiler.
+
+
+
+
+
+</div>
+
+
+</div>
+
 
 
 
